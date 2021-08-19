@@ -1,5 +1,5 @@
 # LenaHash<sup>TM</sup>
-> **_NOTE:_** Vietnamese only.
+> **NOTE:** Vietnamese only.
 
 ![Big picture](images/lenahash.png)
 <p>
@@ -13,9 +13,9 @@ Một số nhóm kỹ thuật đã tìm ra được các phiên bản thử nghi
 
 <p>
 Thực ra việc này không gây nguy hại nhiều cho con người, nhưng hệ thống CSAM detection sẽ bị quá tải bởi false alarm.</p>
-￼
 
 ### References
+
 1. ![CSAM](https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf)
-2. ![Neural Hash Collider] https://github.com/anishathalye/neural-hash-collider
+2. ![NeuralHashCollider](https://github.com/anishathalye/neural-hash-collider)
 
